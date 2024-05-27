@@ -23,7 +23,7 @@ Prerequisites: Basic understanding of Python programming, linear algebra, and pr
 - Tools and libraries: PyTorch, Hugging Face
 - Hands-on: Fine-tuning a pre-trained model using parameter-efficient fine-tuning (PEFT)
 
-### Fundamentals of Large Language Models (LLMs) and Text Generation (28 hours)
+### Fundamentals of Large Language Models (LLMs) and Text Generation (16 hours)
 - Basics of natural language processing (NLP)
 - Introduction to recurrent neural networks (RNNs) and transformers
 - Deep dive into LLMs: architecture, training, and applications
@@ -32,18 +32,4 @@ Prerequisites: Basic understanding of Python programming, linear algebra, and pr
 - Text generation techniques, prompt engineering, retrieval augmented generation
 - Explainability and interpretability of LLMs
 - Hands-on: Building a custom chatbot
-
-### Computer Vision and Image Generation (24 hours)
-- Basics of computer vision, image processing with AI
-- Overview of generative adversarial networks (GANs)
-- Introduction to autoencoders and variational autoencoders (VAEs)
-- Training GANs for image generation
-- Case studies: StyleGAN, DALL-E, and other image generation models
-- Hands-on: Creating new images with Generative AI models
-
-### Video Generation Techniques (12 hours)
-- Introduction to video generation using recurrent neural networks
-- Overview of video prediction models
-- Hands-on: Implementing video generation using deep learning architectures
-
 
