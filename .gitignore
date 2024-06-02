@@ -8,6 +8,8 @@ logs/**
 nohup*
 subl_*
 
+**/lib/**
+
 # all hidden files, except:
 .*
 !.gitignore
